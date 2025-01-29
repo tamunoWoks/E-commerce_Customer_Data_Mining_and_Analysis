@@ -27,3 +27,12 @@ The primary goal is to perform a comprehensive analysis of customer satisfaction
 - **Loyalty Program Effectiveness:** Evaluating the impact of loyalty program membership on customer satisfaction and retention.
 - **Root Cause Analysis:** Identifying the root causes of dissatisfaction to provide actionable recommendations for enhancing customer experience.
 - **Net Promoter Score (NPS):** Calculating the NPS to gauge overall customer loyalty and identify areas to convert detractors into promoters.
+
+## Insights
+1. The summary statistics provided insights into the central tendency, dispersion, and range of the numeric data, and here are some key observations:
+  - **Age:** The average customer age is around 44 years, with a range from 18 to 69 years.
+  - **Purchase Amount:** The average purchase amount is $1065, with a significant standard deviation indicating variability in spending.
+  - **Purchase Frequency:** Customers purchase on average about 14 times, with some making up to 29 purchases.
+  - **Ratings:** The average ratings for product quality, delivery time, customer service, and website ease of use are around 3, indicating moderate satisfaction levels. These ratings range from 1 (poor) to 5 (excellent).
+  - **Return Rate:** The average return rate is 25%, with some customers having a return rate as high as 50%.
+  - **Discount Usage:** The average discount usage is around $251, with high variability.
