@@ -29,7 +29,7 @@ The primary goal is to perform a comprehensive analysis of customer satisfaction
 - **Net Promoter Score (NPS):** Calculating the NPS to gauge overall customer loyalty and identify areas to convert detractors into promoters.
 
 ## Insights
-- The summary statistics provided insights into the central tendency, dispersion, and range of the numeric data, and here are some key observations:
+- The statistical summary of the dataset provided insights into the central tendency, dispersion, and range of the numeric data, and here are some key observations:
   - **Age:** The average customer age is around 44 years, with a range from 18 to 69 years.
   - **Purchase Amount:** The average purchase amount is $1065, with a significant standard deviation indicating variability in spending.
   - **Purchase Frequency:** Customers purchase on average about 14 times, with some making up to 29 purchases.
