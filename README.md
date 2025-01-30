@@ -34,3 +34,11 @@ The primary goal is to perform a comprehensive analysis of customer satisfaction
   - **Ratings:** The average ratings for product quality, delivery time, customer service, and website ease of use are around 3, indicating moderate satisfaction levels. These ratings range from 1 (poor) to 5 (excellent).
   - **Return Rate:** The average return rate is 25%, with some customers having a return rate as high as 50%.
   - **Discount Usage:** The average discount usage is around $251, with high variability.
+
+- The histogram portraying the numerical columns in the dataset revealed the following:
+  - Age distribution is relatively even with slight peaks in the 30s and 60s;
+  - Purchase amounts are right-skewed, indicating most customers spend less than $1000;
+  - Purchase frequency is varied, with notable peaks around 10 and 20 purchases;
+  - Discount usage is evenly spread, showing no significant trend.
+  - Satisfaction ratings for product quality, delivery time, customer service, and website ease of use show a wide distribution, with most ratings clustering around the middle values;
+  - Return rates are varied with peaks around 0.1 and 0.4;
