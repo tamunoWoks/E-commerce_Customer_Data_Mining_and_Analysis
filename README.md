@@ -51,3 +51,11 @@ These findings suggest that customer experiences and behaviours are diverse, wit
   - The highest ratings for delivery time satisfaction are from females aged 60-69, while the lowest are from males aged 30-39.
   - Customer service ratings are fairly consistent, with a slight peak among younger males (18-29).
   - Males in the 60-69 age group rate customer service the lowest.
+
+- After segmenting the numeric columns by the loyalty program, the data shows mean satisfaction ratings, return rates, and discount usage for loyalty program members versus non-members. Here are the insights:
+  - Product Quality Rating: Loyalty program members rate product quality slightly higher (2.95) compared to non-members (2.92).
+  - Delivery Time Rating: Loyalty program members are more satisfied with delivery time (3.09) than non-members (2.92).
+  - Customer Service Rating: Members rate customer service higher (3.16) compared to non-members (2.99).
+  - Website Ease of Use Rating: Non-members rate the website slightly higher (3.11) than members (3.06).
+  - Return Rate: The return rates are almost identical between members (0.25) and non-members (0.25).
+  - Discount Usage: Members use slightly more discounts ($260) compared to non-members ($241).
