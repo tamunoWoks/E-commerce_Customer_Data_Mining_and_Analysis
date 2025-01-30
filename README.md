@@ -42,3 +42,4 @@ The primary goal is to perform a comprehensive analysis of customer satisfaction
   - Discount usage is evenly spread, showing no significant trend.
   - Satisfaction ratings for product quality, delivery time, customer service, and website ease of use show a wide distribution, with most ratings clustering around the middle values;
   - Return rates are varied with peaks around 0.1 and 0.4;
+These findings suggest that customer experiences and behaviours are diverse, with varying levels of satisfaction across different service aspects.
