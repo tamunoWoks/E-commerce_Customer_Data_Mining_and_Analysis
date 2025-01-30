@@ -43,3 +43,11 @@ The primary goal is to perform a comprehensive analysis of customer satisfaction
   - Satisfaction ratings for product quality, delivery time, customer service, and website ease of use show a wide distribution, with most ratings clustering around the middle values;
   - Return rates are varied with peaks around 0.1 and 0.4.  
 These findings suggest that customer experiences and behaviours are diverse, with varying levels of satisfaction across different service aspects.
+
+- After segmenting the customers based on demographic and behavioral factors, the data shows the average satisfaction ratings by age group and gender for different aspects of service. Here are some insights:
+  - Younger customers (18-29) generally rate product quality slightly higher.
+  - Females in the 40-49 age group give the highest ratings, while males in the 60-69 age group give the lowest.
+  - Delivery time satisfaction is relatively consistent across age groups, with minor variations.
+  - The highest ratings for delivery time satisfaction are from females aged 60-69, while the lowest are from males aged 30-39.
+  - Customer service ratings are fairly consistent, with a slight peak among younger males (18-29).
+  - Males in the 60-69 age group rate customer service the lowest.
