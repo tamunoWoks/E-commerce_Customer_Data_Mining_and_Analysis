@@ -69,9 +69,9 @@ A higher NPS indicates more customer loyalty and positive word-of-mouth, which a
 To calculate the NPS, we will use customer service ratings as a proxy for overall satisfaction.  
 
 The NPS calculation shows:
-  - **Detractors:** 100% of customers fall into the Detractors category.
-  - **Passives:** 0%
-  - **Promoters:** 0%.  
+    - **Detractors:** 100% of customers fall into the Detractors category.
+    - **Passives:** 0%
+    - **Promoters:** 0%.  
   This results in an NPS score of -100, which indicates extremely low customer satisfaction.  
   This score is a critical indicator that significant improvements are needed in customer service to convert detractors into promoters.
 
