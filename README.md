@@ -1,4 +1,4 @@
-# customer_satisfaction_analysis
+# E-commerce Customer Data Mining and Analysis
 This is a data-driven study with Python that focuses on customer satisfaction from Ecommerce data
 
 ## Data Overview
