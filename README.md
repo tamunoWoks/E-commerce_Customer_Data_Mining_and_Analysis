@@ -75,5 +75,7 @@ To calculate the NPS, we will use customer service ratings as a proxy for overal
       This results in an NPS score of -100, which indicates extremely low customer satisfaction.  
       This score is a critical indicator that significant improvements are needed in customer service to convert detractors into promoters.
 
-- We then perform root cause analysis to analyze customers who gave low ratings (≤ 2) in different aspects (ProductQualityRating, DeliveryTimeRating, CustomerServiceRating, and WebsiteEaseOfUseRating).  
-We then visualize the characteristics of these customers using histograms for age, purchase amount, purchase frequency, and return rate.
+- After performing root cause analysis to analyze customers who gave low ratings (≤ 2) in different aspects (ProductQualityRating, DeliveryTimeRating, CustomerServiceRating, and WebsiteEaseOfUseRating), and then visualizing the characteristics of these customers using histograms for age, purchase amount, purchase frequency, and return rate. here are some insights:
+  - Customers giving low ratings span a wide age range, with notable peaks around ages 30-40 and 50-60, which suggests age-related dissatisfaction trends.
+  - Purchase amount and frequency distributions reveal that low ratings are not limited to low spenders or infrequent buyers; even high spenders and frequent buyers express dissatisfaction, which shows service quality issues.
+  - The return rate distribution shows that higher return rates correlate with low ratings, particularly for product quality and website ease of use, which indicates dissatisfaction with product and website experiences.
