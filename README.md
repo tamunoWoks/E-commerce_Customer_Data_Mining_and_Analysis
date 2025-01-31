@@ -83,3 +83,6 @@ To calculate the NPS, we will use customer service ratings as a proxy for overal
 - After analyzing customer satisfaction by examining the ratings provided by customers for Product Quality, Delivery Time, Customer Service, and Website Ease of Use. Here's are some insights:
   - Product Quality has the lowest average rating.
   - Website ease of use has the highest average rating.
+
+- After performing analysis on the Return rate, Here are some insights:
+  - Product quality Ratings is not correlated with the return rate with a negative correlation 
