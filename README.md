@@ -59,3 +59,8 @@ These findings suggest that customer experiences and behaviours are diverse, wit
   - **Website Ease of Use Rating:** Non-members rate the website slightly higher (3.11) than members (3.06).
   - **Return Rate:** The return rates are almost identical between members (0.25) and non-members (0.25).
   - **Discount Usage:** Members use slightly more discounts ($260) compared to non-members ($241).
+
+- Net Promoter Score. NPS is a metric used to gauge customer loyalty and satisfaction by asking customers how likely they are to recommend a company’s product or service to others on a scale of 0 to 10. Respondents are classified into three categories:
+  1. Promoters (9-10)
+  2. Passives (7-8)
+  3. Detractors (0-6)
