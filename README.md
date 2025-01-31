@@ -68,7 +68,7 @@ The NPS is calculated by subtracting the percentage of Detractors from the perce
 A higher NPS indicates more customer loyalty and positive word-of-mouth, which are critical for business growth.  
 To calculate the NPS, we will use customer service ratings as a proxy for overall satisfaction.  
 
-The NPS calculation shows:
+The NPS calculation shows:  
     - **Detractors:** 100% of customers fall into the Detractors category.
     - **Passives:** 0%
     - **Promoters:** 0%.  
