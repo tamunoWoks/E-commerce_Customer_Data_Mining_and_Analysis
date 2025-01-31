@@ -79,3 +79,7 @@ To calculate the NPS, we will use customer service ratings as a proxy for overal
   - Customers giving low ratings span a wide age range, with notable peaks around ages 30-40 and 50-60, which suggests age-related dissatisfaction trends.
   - Purchase amount and frequency distributions reveal that low ratings are not limited to low spenders or infrequent buyers; even high spenders and frequent buyers express dissatisfaction, which shows service quality issues.
   - The return rate distribution shows that higher return rates correlate with low ratings, particularly for product quality and website ease of use, which indicates dissatisfaction with product and website experiences.
+
+- After analyzing customer satisfaction by examining the ratings provided by customers for Product Quality, Delivery Time, Customer Service, and Website Ease of Use. Here's are some insights:
+  - Product Quality has the lowest average rating.
+  - Website ease of use has the highest average rating.
