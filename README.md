@@ -74,3 +74,6 @@ The NPS calculation shows:
   - **Promoters:** 0%.  
   This results in an NPS score of -100, which indicates extremely low customer satisfaction.  
   This score is a critical indicator that significant improvements are needed in customer service to convert detractors into promoters.
+
+- We then perform root cause analysis to analyze customers who gave low ratings (≤ 2) in different aspects (ProductQualityRating, DeliveryTimeRating, CustomerServiceRating, and WebsiteEaseOfUseRating).  
+We then visualize the characteristics of these customers using histograms for age, purchase amount, purchase frequency, and return rate.
