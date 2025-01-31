@@ -63,6 +63,7 @@ These findings suggest that customer experiences and behaviours are diverse, wit
 - Net Promoter Score. NPS is a metric used to gauge customer loyalty and satisfaction by asking customers how likely they are to recommend a company’s product or service to others on a scale of 0 to 10. Respondents are classified into three categories:
   1. Promoters (9-10)
   2. Passives (7-8)
-  3. Detractors (0-6)
-The NPS is calculated by subtracting the percentage of Detractors from the percentage of Promoters. A higher NPS indicates more customer loyalty and positive word-of-mouth, which are critical for business growth.  
+  3. Detractors (0-6).  
+The NPS is calculated by subtracting the percentage of Detractors from the percentage of Promoters.
+A higher NPS indicates more customer loyalty and positive word-of-mouth, which are critical for business growth.  
 To calculate the NPS, we will use customer service ratings as a proxy for overall satisfaction.
